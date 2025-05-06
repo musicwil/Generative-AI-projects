@@ -1,0 +1,19 @@
+# Byte‑compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+env/
+
+# MacOS Finder files
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.tmp
