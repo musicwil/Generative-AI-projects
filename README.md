@@ -16,6 +16,12 @@ This repository contains independent hands-on projects developed as part of diff
 - **Contents:** Sentiment classification using product review data with Pormpt Engineering techniques and LLM.
 - [View notebook](sentiment-analysis/expressway_sentiment.ipynb)
 
+### 3. Video Game Review Sentiment Analysis  
+- **Path:** 'sentiment-analysis-classification/' 
+- **Source:** Hugging Face `LoganKells/amazon_product_reviews_video_games`  
+- **Contents:** Sentiment classification of Amazon video game reviews using a few-shot LLM prompt. Includes ranking by sentiment strength and title lookup via API.  
+- [View notebook](video-game-reviews/Amazon_Video_Games_Review.ipynb)
+
 ---
 
 Each project folder contains its own:
