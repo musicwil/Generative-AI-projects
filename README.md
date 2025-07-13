@@ -18,7 +18,7 @@ This repository contains independent hands-on projects developed as part of diff
 
 ### 3. Video Game Review Sentiment Analysis  
 - **Path:** 'sentiment-analysis-classification/' 
-- **Source:** Hugging Face `LoganKells/amazon_product_reviews_video_games`  
+- **Source:** Hugging Face LoganKells/amazon_product_reviews_video_games
 - **Contents:** Sentiment classification of Amazon video game reviews using a few-shot LLM prompt. Includes ranking by sentiment strength and title lookup via API.  
 - [View notebook](video-game-reviews/Amazon_Video_Games_Review.ipynb)
 
