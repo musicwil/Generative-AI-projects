@@ -19,7 +19,7 @@ This repo features hands-on experiments, case studies, and proof-of-concept note
 
 ### 🔹 ExpressWay Logistics Sentiment Analysis  
 **Folder**: [`sentiment-analysis/`](./sentiment-analysis/)  
-This notebook analyzes customer reviews related to delivery and logistics performance using an LLM for sentiment classification (positive, negative, or neutral). Ideal for automating feedback analysis in service-based businesses.  
+This notebook analyzes customer reviews related to delivery and logistics performance using an LLM for sentiment classification (positive, negative). Ideal for automating feedback analysis in service-based businesses.  
 📄 [View notebook](./sentiment-analysis/ExpressWay%20Logistics%20Sentiment%20Analysis%20.ipynb)
 
 ---
